@@ -1,0 +1,3 @@
+original 1ubq pdb is in green
+alpha fold top ranked structure is in blue
+colab is in magenta
